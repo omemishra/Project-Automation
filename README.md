@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-=========================== Ome Mishra(De.Hack3r) =====
+====================== Ome Mishra(De.Hack3r) ======================
 
 
 
@@ -16,6 +16,7 @@ This Is a tool build in python for the automation of VAPT so feel free to contri
 
 **Linux**
 apt-get install python3
+
 pip install -r requirements.txt
 
 
