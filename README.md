@@ -14,12 +14,18 @@ This Is a tool build in python for the automation of VAPT so feel free to contri
 
 # insatllation 
 
-**Linux**
+**Linux:- **
+
 apt-get install python3
+python -m pip install pip==18.1
+pip install -r requirements.txt
+
+**Windows**
+apt-get install python3
+
+python -m pip install pip==18.1
 
 pip install -r requirements.txt
 
-
-
-## usage:- 
+## Usage:- 
 python3 Project-Auto.py
